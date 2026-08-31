@@ -8,7 +8,7 @@
 
 <h1 align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&color=1AF700&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Kamrul+Hasan+Rabbi;Web+Developer;Frontend+Developer;WordPress+Developer;HTML+%7C+CSS+%7C+JavaScript;Modern+%26+Responsive+Websites" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com? font=Inter&size=32&color=1AF700&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Kamrul+Hasan+Rabbi;Web+Developer;Frontend+Developer;WordPress+Developer;HTML+%7C+CSS+%7C+JavaScript;Modern+%26+Responsive+Websites" alt="Typing SVG" />
 
 </h1>
 
