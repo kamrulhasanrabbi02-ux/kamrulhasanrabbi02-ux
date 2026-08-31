@@ -154,21 +154,8 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
 
-  <a href="https://github.com/kamrulhasanrabbi02-ux" target="_blank">
-
-```
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-  style="max-width:900px; width:100%; height:auto;" />
-```
-
-  </a>
-
-</p>
 
 ---
 
